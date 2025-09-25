@@ -38,6 +38,5 @@ Then open http://127.0.0.1:5000 in your browser to inspect runs, metrics and art
 - The notebook and script are minimal by design to be easy to run and adapt. Consider replacing FAISS with a managed vector DB (Pinecone, Weaviate) for scale.
 - Ensure you respect license and usage limits for any LLM provider if you extend the demo to call a hosted LLM.
 
-## One-liner for your CV
-`Experience with GCP (BigQuery, VertexAI); fast to apply to Azure (AKS, Azure ML).`
+
 
